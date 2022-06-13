@@ -1,4 +1,5 @@
 Hi I´m Gi!
+⤷‧₊˚ 🎧
 
 
 - 📼 I like tech and geeky stuff!!
