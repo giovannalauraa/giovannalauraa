@@ -27,5 +27,5 @@ Hi I´m Gi!
   </div>
   
   <div>
-     <img align="right" alt="Gi-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/987577406846029837/987579162497798194/Webp.net-gifmaker.gif?width=406&height=406">
+     <img align="right" alt="Gi-pic" height="210" style="border-radius:50px;" src="https://media.discordapp.net/attachments/987577406846029837/987579162497798194/Webp.net-gifmaker.gif?width=406&height=406">
   </div>
