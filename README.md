@@ -2,7 +2,7 @@ Hi I´m Gi!
 ⤷‧₊˚ 🎧
 
 
-- 📼 I like tech and geeky stuff!!
+- 📼 
 
 <div align="center">
   <a href="https://github.com/giovannalauraa">
