@@ -2,13 +2,11 @@ Hi I´m Gi!
 ⤷‧₊˚ 🎧
 
 
-- 📼 
-
 <div align="center">
   <a href="https://github.com/giovannalauraa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannalauraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannalauraa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannalauraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannalauraa&layout=compact&langs_count=7&theme=dracula"/>-->
+</div> 
   
   <div>
  
@@ -31,6 +29,6 @@ Hi I´m Gi!
    
   </div>
   
-  <div>
+ <!-- <div>
      <img align="right" alt="Gi-pic" height="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/987577406846029837/987579162497798194/Webp.net-gifmaker.gif?width=406&height=406">
-  </div>
+  </div> -->
