@@ -1,5 +1,5 @@
 Hi I´m Gi!
-⤷‧₊˚ 🎧
+
 
 
 <div align="center">
@@ -8,15 +8,7 @@ Hi I´m Gi!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannalauraa&layout=compact&langs_count=7&theme=dracula"/>-->
 </div> 
   
-  <div>
- 
-  <a href="https://instagram.com/gjojowhois" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-    
 
-
- 
-  </div>
-  
   ##
 
   <div>
