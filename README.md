@@ -1,4 +1,4 @@
-## Technology Student
+## Progammer 💻
 
 - Computer Technician - IFSP. 
 - Analysis and systems development - IFSP ( studying at the moment ).
